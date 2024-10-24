@@ -3,6 +3,7 @@ title: "Pumpkin Bread"
 format: html
 ---
 
+## Ingredients
 
 | Dry Ingredient | Amount |
 | --- | --- |
@@ -24,3 +25,5 @@ format: html
 | Milk | $\frac{1}{2}$ cup|
 | Eggs | 2 large |
 | Vanilla extract | 1 teaspoon | 
+
+## Directions

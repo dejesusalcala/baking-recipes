@@ -1,0 +1,27 @@
+---
+title: "Oatmeal Chocolate Chip Cookies"
+format: html
+---
+
+## Ingredients
+
+| Dry ingredient | Amount |
+| --- | --- | 
+| Flour | 120 grams |
+| Salt | ½ teaspoon  |
+| Baking soda | ½ teaspoon  |
+
+| Wet ingredient | Amount |
+| --- | --- | 
+| Butter | 114 grams |
+| White sugar | 65 grams |
+| Brown sugar | 140 grams | 
+| Egg | 1 |
+| Vanilla extract | 2 teaspoon | 
+
+| Mix-ins | Amount  |
+| --- | --- |
+| Rolled oats | 135 grams |
+| Chocolate chips | 150 grams |
+
+## Directions
