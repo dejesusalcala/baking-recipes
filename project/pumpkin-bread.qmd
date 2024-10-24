@@ -1,0 +1,26 @@
+---
+title: "Pumpkin Bread"
+format: html
+---
+
+
+| Dry Ingredient | Amount |
+| --- | --- |
+| Flour | 230 grams |
+| Baking soda | 1 teaspoon |
+| Baking powder | $\frac{1}{2}$ teaspoon |
+| Salt | $\frac{1}{2}$ teaspoon |
+| Cinnamon | 2 teaspoons|
+| Allspice | $\frac{1}{4}$ teaspoon |
+| Nutmeg | $\frac{1}{4}$ teaspoon |
+| Ground ginger | $\frac{1}{4}$ teaspoon |
+
+| Wet Ingredient | Amount |
+| --- | --- |
+| Pumpkin puree | 425 grams |
+| White sugar | 200 grams |
+| Brown sugar | 100 grams |
+| Vegetable oil | $\frac{1}{2}$ cup |
+| Milk | $\frac{1}{2}$ cup|
+| Eggs | 2 large |
+| Vanilla extract | 1 teaspoon | 

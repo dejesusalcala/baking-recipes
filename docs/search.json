@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baking Recipes",
+    "section": "",
+    "text": "Preface\nIn this book I want to share some of my personal favorite baking recipes."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "cream-cheese-cookies.html",
+    "href": "cream-cheese-cookies.html",
+    "title": "1  Cream Cheese Cookies",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "cream-cheese-cookies.html#ingredients",
+    "href": "cream-cheese-cookies.html#ingredients",
+    "title": "Cream Cheese Cookies",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n\n\nDry ingredient\nAmount (single batch)\nAmount (double batch)\n\n\n\n\nFlour\n210 grams\n420 grams\n\n\nSalt\n\\(\\frac{1}{2}\\) teaspoon\n1 teaspoon\n\n\nBaking powder\n\\(\\frac{1}{2}\\) teaspoon\n1 teaspoon\n\n\n\n\n\n\nWet ingredient\nAmount (single batch)\nAmount (double batch)\n\n\n\n\nButter\n114 grams\n228 grams\n\n\nCream cheese\n114 grams\n228 grams\n\n\nWhite sugar\n200 grams\n400 grams\n\n\nEgg\n1\n2\n\n\nVanilla extract\n2 teaspoons\n4 teaspoons"
+  },
+  {
+    "objectID": "cream-cheese-cookies.html#directions",
+    "href": "cream-cheese-cookies.html#directions",
+    "title": "Cream Cheese Cookies",
+    "section": "Directions",
+    "text": "Directions\n\nStart by browning the butter. Then let the browned butter cool down to room temperature.\nIn a bowl sift the flour, baking powder, and the salt. Then whisk all together.\nIn a separate bowl mix the browned butter and cream cheese until well combined before adding the sugar. Add the white sugar to create the batter.\nAdd the egg at room temperature and the vanilla to the batter and continue mixing.\nAdd the dry mixture to the wet mixture and mix until just combined.\nChill for at least an hour.\nRoll each dough ball to about 40 grams or to desired size.\nBake at \\(375 ^\\circ\\) F for about 10 minutes or until the edges are turning golden brown.\nDust the cookies with powdered sugar, drizzle with melted white chocolate, or cream cheese frosting."
+  },
+  {
+    "objectID": "pumpkin-bread.html",
+    "href": "pumpkin-bread.html",
+    "title": "Pumpkin Bread",
+    "section": "",
+    "text": "Dry Ingredient\nAmount\n\n\n\n\nFlour\n230 grams\n\n\nBaking soda\n1 teaspoon\n\n\nBaking powder\n\\(\\frac{1}{2}\\) teaspoon\n\n\nSalt\n\\(\\frac{1}{2}\\) teaspoon\n\n\nCinnamon\n2 teaspoons\n\n\nAllspice\n\\(\\frac{1}{4}\\) teaspoon\n\n\nNutmeg\n\\(\\frac{1}{4}\\) teaspoon\n\n\nGround ginger\n\\(\\frac{1}{4}\\) teaspoon\n\n\n\n\n\n\nWet Ingredient\nAmount\n\n\n\n\nPumpkin puree\n425 grams\n\n\nWhite sugar\n200 grams\n\n\nBrown sugar\n100 grams\n\n\nVegetable oil\n\\(\\frac{1}{2}\\) cup\n\n\nMilk\n\\(\\frac{1}{2}\\) cup\n\n\nEggs\n2 large\n\n\nVanilla extract\n1 teaspoon"
+  }
+]

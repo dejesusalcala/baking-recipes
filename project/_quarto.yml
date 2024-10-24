@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: ../docs
+
+
+book:
+  title: "Baking Recipes"
+  author: "Angel Alcala Ruiz"
+  date: "10/16/2024"
+  chapters:
+    - index.qmd
+    - chocolate-chip-cookies.qmd
+    - cream-cheese-cookies.qmd
+    - double-chocolate-chip-cookies.qmd
+    - pumpkin-bars.qmd
+    - pumpkin-bread.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    number-sections: false
+  pdf:
+    documentclass: scrreprt
+
+
+
