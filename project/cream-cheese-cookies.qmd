@@ -2,14 +2,13 @@
 
 ## Ingredients
 
-| Dry ingredient | Amount (single batch) | Amount (double batch) |
+| Ingredients | Amount (single batch) | Amount (double batch) |
 |--- |---|---|
+| **Dry** | | |
 | Flour | 210 grams | 420 grams |
 | Salt | $\frac{1}{2}$ teaspoon | 1 teaspoon |
 | Baking powder | $\frac{1}{2}$ teaspoon |1 teaspoon |
-
-| Wet ingredient | Amount (single batch) | Amount (double batch) |
-|--- | ---| ---|
+| **Wet** | | |
 | Butter | 114 grams | 228 grams |
 | Cream cheese | 114 grams | 228 grams |
 | White sugar | 200 grams | 400 grams |

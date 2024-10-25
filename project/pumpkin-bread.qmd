@@ -5,8 +5,9 @@ format: html
 
 ## Ingredients
 
-| Dry Ingredient | Amount |
+| Ingredients | Amount |
 | --- | --- |
+| **Dry** | |
 | Flour | 230 grams |
 | Baking soda | 1 teaspoon |
 | Baking powder | $\frac{1}{2}$ teaspoon |
@@ -15,9 +16,7 @@ format: html
 | Allspice | $\frac{1}{4}$ teaspoon |
 | Nutmeg | $\frac{1}{4}$ teaspoon |
 | Ground ginger | $\frac{1}{4}$ teaspoon |
-
-| Wet Ingredient | Amount |
-| --- | --- |
+| **Wet** | |
 | Pumpkin puree | 425 grams |
 | White sugar | 200 grams |
 | Brown sugar | 100 grams |

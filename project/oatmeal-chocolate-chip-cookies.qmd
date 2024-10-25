@@ -5,22 +5,19 @@ format: html
 
 ## Ingredients
 
-| Dry ingredient | Amount |
-| --- | --- | 
+| Ingredients | Amount |
+ --- | --- |
+| **Dry** | | 
 | Flour | 120 grams |
 | Salt | ½ teaspoon  |
-| Baking soda | ½ teaspoon  |
-
-| Wet ingredient | Amount |
-| --- | --- | 
+| Baking soda | ½ teaspoon |
+| **Wet** | |
 | Butter | 114 grams |
 | White sugar | 65 grams |
 | Brown sugar | 140 grams | 
 | Egg | 1 |
-| Vanilla extract | 2 teaspoon | 
-
-| Mix-ins | Amount  |
-| --- | --- |
+| Vanilla extract | 2 teaspoons | 
+| **Mix-ins** | |
 | Rolled oats | 135 grams |
 | Chocolate chips | 150 grams |
 

@@ -5,23 +5,20 @@ format: html
 
 ## Ingredients
 
-| Dry ingredient | Amount (single batch) | Amount (double batch) |
+
+| Ingredient | Amount (single batch) | Amount (double batch) |
 | --- | --- | --- | 
+| **Dry** | | |
 | Flour | 160 grams | 320 grams |
 | Salt | ½ teaspoon | 1 teaspoon |
 | Baking soda | ½ teaspoon | 1 teaspoon |
-| Cinnamon (optional) | ¼ teaspoon | ½ teaspoon | 
-
-| Wet ingredient | Amount (single batch) | Amount (double batch) |
-| --- | --- | --- | 
+| **Wet** | | |
 | Butter | 114 grams | 228 grams |
 | White sugar | 100 grams | 200 grams |
 | Brown sugar |110 grams | 220 grams |
 | Egg | 1 | 2 |
 | Vanilla extract | 1 teaspoon | 2 teaspoons |
-
-| Mix-ins | Amount (single batch) | Amount (double batch) |
-| --- | --- | --- |
+| **Mix-ins** | | |
 | Chocolate chips | 175 grams | 350 grams |
 
 ## Directions
