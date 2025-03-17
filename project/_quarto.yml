@@ -17,6 +17,7 @@ book:
         - oatmeal-chocolate-chip-cookies.qmd
     - part: "BARS & CAKES"
       chapters: 
+        - chocolate-tres-leches.qmd
         - pumpkin-bars.qmd
         - tres-leches.qmd
     - part: "BREADS"

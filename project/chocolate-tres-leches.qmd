@@ -1,0 +1,40 @@
+---
+title: "Chocolate Tres Leches Cake"
+format: html
+---
+
+## Ingredients
+
+### Chocolate Sponge Cake
+
+| Dry ingredient | Amount |
+|---|---|
+| Flour | 130 grams |
+| Cacao powder | 50 grams|
+| Baking powder | 1 tablespoon |
+| Salt | $\frac{1}{2}$ teaspoon |
+| **Wet ingredient** | |
+| Eggs | 4 large | 
+| White sugar | 150 grams |
+| Milk | $\frac{1}{4}$ cup |
+| Chocolate (50-70%) | 40 grams |
+| Butter | 90 grams|
+| Vanilla extract | 1 teaspoon |
+
+### Chocoale Milk Bath
+
+| Ingredient | Amount |
+|---|---|
+| Condensed milk | 1 can (14 oz) |
+| Heavy cream | 1 cup |
+| Whole milk | 1 cup |
+| Cacao powder | 20 grams |
+| Chocolate (50-70%) | 30 grams |
+
+### Chocolate Frosting
+
+| Ingredient | Amount |
+|---|---|
+| Heavy cream | 1 cup |
+| Chocolate (50-70%) | 80 grams | 
+| Powdered sugar | 1 tablespoon |
