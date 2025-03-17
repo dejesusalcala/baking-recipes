@@ -18,6 +18,7 @@ book:
     - part: "BARS & CAKES"
       chapters: 
         - pumpkin-bars.qmd
+        - tres-leches.qmd
     - part: "BREADS"
       chapters:
         - pumpkin-bread.qmd

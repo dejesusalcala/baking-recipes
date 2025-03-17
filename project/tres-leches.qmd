@@ -1,0 +1,37 @@
+---
+title: "Tres Leches Cake"
+format: html
+---
+
+## Ingredients
+
+### Cake
+
+| Dry ingredient | Amount |
+|---|---|
+| Flour | 120 grams |
+| Baking powder | 1 tablespoon |
+| Salt | $\frac{1}{2}$ teaspoon |
+| **Wet ingredient** | |
+| Eggs | 4 large | 
+| White sugar | 150 grams |
+| Milk | $\frac{1}{4}$ cup |
+| Vanilla extract | 1 teaspoon |
+
+### Milk Bath
+
+| Ingredient | Amount |
+|---|---|
+| Condensed milk | 1 can (14 oz) |
+| Evaporated milk | 1 can (12 oz) |
+| Whole milk | 1 cup |
+
+### Frosting
+
+| Ingredient | Amount |
+|---|---|
+| Heavy cream | 1 cup |
+| Powdered sugar | 1 tablespoon |
+| Vanilla extract (optional) | $\frac{1}{2}$ teaspoon | 
+
+## Directions 
