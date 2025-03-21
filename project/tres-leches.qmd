@@ -14,6 +14,7 @@ format: html
 | Salt | $\frac{1}{2}$ teaspoon |
 | **Wet ingredient** | |
 | Eggs | 4 large | 
+| Stabilizer (Lemon juice, vinegar, or cream of tartar) | $\frac{1}{4}$ to $\frac{1}{2}$ teaspoon |
 | White sugar | 150 grams |
 | Milk | $\frac{1}{4}$ cup |
 | Vanilla extract | 1 teaspoon |
@@ -22,9 +23,19 @@ format: html
 
 | Ingredient | Amount |
 |---|---|
+| *Option 1* | |
 | Condensed milk | 1 can (14 oz) |
 | Evaporated milk | 1 can (12 oz) |
 | Whole milk | 1 cup |
+| *Option 2* | |
+| Condensed milk | 1 can (14 oz) |
+| Heavy cream | 1 can (12 oz) |
+| Whole milk | 1 cup |
+| *Option 3* | |
+| Condensed milk | 1 can (14 oz) |
+| Heavy cream | 1 cup |
+| Sour cream | 1 cup |
+
 
 ### Frosting
 
@@ -35,3 +46,21 @@ format: html
 | Vanilla extract (optional) | $\frac{1}{2}$ teaspoon | 
 
 ## Directions 
+
+1. Separate the egg yolks and the egg whites. This is easiest when the eggs are cold. Then allow them to reach room temperature so that the egg whites are  easier to whip to stiff peaks. 
+
+2. In a separate bowl sift and mix the dry ingredients together.
+
+3. Once the egg whites are at room temperature add the stabilizer and whip the egg whites. Once the egg whites become foamy gradually add about a tablespoon of sugar until stiff peaks form. Add about 3-5 tablespoons of sugar in total.
+
+4. Add the remaining sugar, milk, and vanilla to the egg yolks and begin mixing until thick and gooey in texture.
+
+5. Add the dry ingredients to the egg yolk mixture. 
+
+6. Add a couple of dollops of the whipped egg whites to the egg yolk mixture and mix this well to loosen the batter. 
+
+7. Add the new mixture to the remaining whipped egg whites and fold the mixture carefully. Gentle mixing here is critical to keep as many pockets of air in the whipped whites.
+
+8. Bake at $325 ^\circ$ F for about 35-40 minutes or until a skewer inserted comes out clean. The cake should be golden brown, risen, and pulled away from the sides.
+
+9. 
