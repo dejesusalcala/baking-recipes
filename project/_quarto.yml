@@ -14,7 +14,7 @@ book:
         - chocolate-chip-cookies.qmd
         - cream-cheese-cookies.qmd
         - double-chocolate-chip-cookies.qmd
-        - oatmeal-chocolate-chip-cookies.qmd
+        - oatmeal-raisin-cookies.qmd
     - part: "BARS & CAKES"
       chapters: 
         - chocolate-tres-leches.qmd

@@ -1,5 +1,5 @@
 ---
-title: "Oatmeal Chocolate Chip Cookies"
+title: "Oatmeal Raisin Cookies"
 format: html
 ---
 
@@ -19,6 +19,6 @@ format: html
 | Vanilla extract | 2 teaspoons | 
 | **Mix-ins** | |
 | Rolled oats | 135 grams |
-| Chocolate chips | 150 grams |
+| Raisins  | 150 grams |
 
 ## Directions
