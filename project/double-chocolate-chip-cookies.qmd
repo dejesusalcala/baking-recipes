@@ -9,8 +9,8 @@ format: html
 |---|---|---|
 | **Dry** | | |
 | Flour | 120 grams | 240 grams |
-| Salt | ½ teaspoon | 1 teaspoon |
-| Baking soda | ½ teaspoon | 1 teaspoon |
+| Salt | $\frac{1}{2}$ teaspoon | 1 teaspoon |
+| Baking soda | $\frac{1}{2}$ teaspoon | 1 teaspoon |
 | *Cacao powder* | 33 grams | 66 grams |
 | **Wet** | | |
 | Butter | 114 grams | 228 grams |
@@ -19,17 +19,22 @@ format: html
 | Egg | 1 | 2 |
 | Vanilla extract | 2 teaspoons | 4 teaspoons|
 | **Mix-ins** | | |
-| Chocolate chips | 180 grams | 360 grams | 
+| Chocolate chips (semi-sweet of dark) | 180 grams | 360 grams | 
 
 ## Directions
 
 1. Start by browning the butter. Then let the browned butter cool down to room temperature.
 
-2. In a bowl mix the browned butter, brown sugar, and white sugar to create the batter.
+2. In a bowl sift and mix the dry ingredients together.
 
-3. Add the egg at room temperature to the batter and continue mixing.
+2. In a separate bowl mix the browned butter, brown sugar, and white sugar to create the batter.
 
-4. Add the vanilla, salt and baking soda and mix thoroughly before adding the flour and the chocolate chips.
+3. Add the egg at room temperature and the vanilla to the batter and continue mixing.
+
+4. Add the dry mixture to the wet mixture and mix. Then add the chocolate chips and continue to mix until just combined. Do not overmix the batter. 
+
+5. Chill the dough for a couple hours.
+
 5. If baking from
     - Fresh, 350 for about 10 minutes 
     - Frozen 335-340 for about 17 minutes 
