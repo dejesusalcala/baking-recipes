@@ -23,15 +23,15 @@ format: html
 
 | Ingredient | Amount |
 |---|---|
-| *Option 1* | |
+| **Option 1** *(Traditional)* | |
 | Condensed milk | 1 can (14 oz) |
 | Evaporated milk | 1 can (12 oz) |
 | Whole milk | 1 cup |
-| *Option 2* | |
+| **Option 2** *(Thicker & Richer)* | |
 | Condensed milk | 1 can (14 oz) |
 | Heavy cream | 1 can (12 oz) |
 | Whole milk | 1 cup |
-| *Option 3* | |
+| **Option 3** *(Sweet & Tangy)*| |
 | Condensed milk | 1 can (14 oz) |
 | Evaporated milk | 1 can (12 oz) |
 | Sour cream | 1 cup |
