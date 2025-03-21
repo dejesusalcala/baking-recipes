@@ -33,7 +33,7 @@ format: html
 | Whole milk | 1 cup |
 | *Option 3* | |
 | Condensed milk | 1 can (14 oz) |
-| Heavy cream | 1 cup |
+| Evaporated milk | 1 can (12 oz) |
 | Sour cream | 1 cup |
 
 
